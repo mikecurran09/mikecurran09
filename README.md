@@ -1,7 +1,5 @@
 ### Hello World, I'm Mike  👋
 
- <img align="right" alt="JPG" src="https://github.com/mikecurran09/mikecurran09/blob/main/code_short.jpg?raw=true" width="500" height="320" />
-
 ## 🙋‍♂️ About Me
 - ✍ You can find my projects here [TBD]
 - 💬 Ask me about ... Golden Retrievers
