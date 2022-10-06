@@ -1,4 +1,4 @@
-### Hello World, I'm Mike  👋
+![160744959694494596](https://github.com/mikecurran09/mikecurran09/blob/main/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171%20(1).png)
 
 ## 🙋‍♂️ About Me
 - ✍ You can find my projects here [TBD]
