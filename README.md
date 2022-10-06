@@ -2,8 +2,7 @@
 
 ## 🙋‍♂️ About Me
 - ✍ You can find my projects here [TBD]
-- 💬 Ask me about ... Golden Retrievers, Navy Football (Beat Army!), Olympic Weightlifting, Dingy & Offshore Sailing (ask about
-Block Island race week), Aviation, Pepperoni Pizza (no, pineapples do NOT belong), Reading (primarily science fiction)
+- 💬 Ask me about ... Golden Retrievers, Olympic Weightlifting, Dingy & Offshore Sailing, Aviation
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was in the military for 6 years
 
