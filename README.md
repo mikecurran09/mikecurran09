@@ -1,6 +1,6 @@
 ### Hello World, I'm Mike  👋
 
- <img align="right" alt="JPG" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="JPG" src="https://github.com/mikecurran09/mikecurran09/blob/main/code.jpg?raw=true" width="500" height="320" />
 
 ## 🙋‍♂️ About Me
 - ✍ You can find my projects here [TBD]
