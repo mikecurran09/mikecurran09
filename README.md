@@ -7,7 +7,7 @@ Block Island race week), Aviation, Pepperoni Pizza (no, pineapples do NOT belong
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was in the military for 6 years
 
-<br />
+<br>
 
 ## 🤖 Languages and Tools:
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
@@ -16,7 +16,7 @@ Block Island race week), Aviation, Pepperoni Pizza (no, pineapples do NOT belong
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-217346?style=for-the-badge&logo=microsoft-sql&logoColor=white) 
 
-<br />
+<br>
 
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miketcurran/)
