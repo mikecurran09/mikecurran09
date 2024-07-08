@@ -22,4 +22,3 @@
 ## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miketcurran/)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/michael.c.4963) 
-![Gmail](https://img.shields.io/badge/mikecurran09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
